@@ -1,5 +1,8 @@
 _repo: Der-Volksbeglucker_67619
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67619-h/images/cover.jpg
 creator:
   author:
     agent_name: Haas, Rudolf
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54362
     wikipedia: https://de.wikipedia.org/wiki/Rudolf_Haas_(Schriftsteller)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67619#Der-Volksbeglucker
 gutenberg_issued: '2022-03-13'
 identifiers:
   gutenberg: '67619'
